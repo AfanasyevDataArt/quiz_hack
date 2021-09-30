@@ -1,5 +1,6 @@
 # quiz_hack
 
 Contains:
-Python prototype
-C++ naive implementation
+- Text file witn 30R Russian words
+- Python prototype
+- C++ naive implementation
